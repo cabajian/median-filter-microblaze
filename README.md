@@ -1,1 +1,1 @@
-# median-filter-microblaze
+# Median Filter in an FPGA Using MicroBlaze
